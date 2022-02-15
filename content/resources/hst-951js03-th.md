@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-951j-medical-decision-support-spring-2003/c7b58bb00aff48613cd9bbb05c0095a6_hst-951js03-th.jpg
+file: /media/courses/hst-951j-medical-decision-support-spring-2003/c7b58bb00aff48613cd9bbb05c0095a6_hst-951js03-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Comparison of logistic regression vs. neural networks as prognostic models.
@@ -9,6 +9,8 @@ image_metadata:
   credit: ''
   image-alt: 'Comparison of logistic regression vs. neural networks as prognostic
     models. '
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: hst-951js03-th.jpg
 uid: c7b58bb0-0aff-4861-3cd9-bbb05c0095a6

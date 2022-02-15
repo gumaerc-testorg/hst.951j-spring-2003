@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bb9fab39-a1ed-ad66-b4cf-cdf46ddfe5ab
 ---
@@ -40,7 +42,7 @@ Duda, Richard O., Peter E. Hart, and David G. Stork. _Pattern Classification_. 2
 Prerequisites
 -------------
 
-Familiarity with SAS and MATLAB® will be helpful, and consultation with respective user manuals may be necessary.
+Familiarity with SAS and MATLAB{{< sup "®" >}} will be helpful, and consultation with respective user manuals may be necessary.
 
 Grading
 -------
