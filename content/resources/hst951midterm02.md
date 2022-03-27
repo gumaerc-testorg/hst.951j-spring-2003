@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e5687da4-707c-b205-85ad-abafd3cf55a6
 resourcetype: Document
 title: hst951Midterm02.pdf
 uid: 7f6c7b8c-0314-f29d-9ac0-6f58cfe1c107
