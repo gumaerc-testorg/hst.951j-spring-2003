@@ -11,6 +11,7 @@ image_metadata:
     models. '
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: hst-951js03-th.jpg
 uid: c7b58bb0-0aff-4861-3cd9-bbb05c0095a6

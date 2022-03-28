@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: bb9fab39-a1ed-ad66-b4cf-cdf46ddfe5ab
 ---
