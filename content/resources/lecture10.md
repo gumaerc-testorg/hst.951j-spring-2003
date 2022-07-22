@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/cc4cc8af21c855aa7a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture10.pdf
 uid: cc4cc8af-21c8-55aa-7a9a-8451b1a9514d
 ---
 Classification Trees
-

@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/50ff51d9bebe9dbba73
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture12.pdf
 uid: 50ff51d9-bebe-9dbb-a735-b715c65824e5
 ---
 Support Vector Machines
-

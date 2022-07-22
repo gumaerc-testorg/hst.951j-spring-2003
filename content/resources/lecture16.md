@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/22dcc89f5bc8abd09ce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture16.pdf
 uid: 22dcc89f-5bc8-abd0-9ce4-2c8cba5e030b
 ---
 Survival Analysis
-

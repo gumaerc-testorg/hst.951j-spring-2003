@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/ee8fa431e587ed50e8a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture14.pdf
 uid: ee8fa431-e587-ed50-e8a4-361a06adf58c
 ---
 Evaluating Generalization (validation)
-

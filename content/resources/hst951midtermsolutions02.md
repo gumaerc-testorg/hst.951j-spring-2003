@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/b746d7d455f16bd6aab
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hst951MidtermSolutions02.pdf
 uid: b746d7d4-55f1-6bd6-aab7-4a09cbb1c1ba
 ---
 Midterm HST951 Solutions
-

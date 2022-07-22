@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/697f5aaa3ab60d658fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture20.pdf
 uid: 697f5aaa-3ab6-0d65-8fe4-80c9ff7c2c3b
 ---
 Unsupervised Learning
-

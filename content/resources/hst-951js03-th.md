@@ -10,10 +10,10 @@ image_metadata:
   image-alt: 'Comparison of logistic regression vs. neural networks as prognostic
     models. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-951js03-th.jpg
 uid: c7b58bb0-0aff-4861-3cd9-bbb05c0095a6
 ---
 New image Upload
-

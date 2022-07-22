@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/2a27e25822b3f174547
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework2.pdf
 uid: 2a27e258-22b3-f174-5471-4759c8a8e45b
 ---
 Homework - Fuzzy Rough Rules
-

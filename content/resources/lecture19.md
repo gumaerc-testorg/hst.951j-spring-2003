@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/6b28db0c6c535d1c0f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture19.pdf
 uid: 6b28db0c-6c53-5d1c-0f3a-a43e5c44f0eb
 ---
 Databases in Clinical Research
-

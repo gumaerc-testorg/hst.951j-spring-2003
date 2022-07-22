@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/87b0d19dfa7a6ef065b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture15.pdf
 uid: 87b0d19d-fa7a-6ef0-65b2-61bd916ce033
 ---
 Optimization and Complexity
-

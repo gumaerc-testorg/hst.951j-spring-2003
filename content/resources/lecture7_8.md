@@ -5,6 +5,7 @@ file: /courses/hst-951j-medical-decision-support-spring-2003/9aa9dee6b6fc731c280
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture7_8.pdf
 uid: 9aa9dee6-b6fc-731c-280c-44d08e097fe9
 ---
 Binary Outcomes [Logistic Regression]
-
