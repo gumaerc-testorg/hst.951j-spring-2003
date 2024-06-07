@@ -2,6 +2,7 @@
 content_type: resource
 description: Artificial Neural Networks
 file: /courses/hst-951j-medical-decision-support-spring-2003/7f661793d11ec0864b429bea0131a8b5_lecture11.pdf
+file_size: 2205666
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

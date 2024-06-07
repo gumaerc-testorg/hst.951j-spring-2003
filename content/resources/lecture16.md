@@ -2,6 +2,7 @@
 content_type: resource
 description: Survival Analysis
 file: /courses/hst-951j-medical-decision-support-spring-2003/22dcc89f5bc8abd09ce42c8cba5e030b_lecture16.pdf
+file_size: 450855
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
