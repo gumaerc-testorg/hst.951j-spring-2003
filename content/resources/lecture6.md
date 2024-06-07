@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Bayesian Networks: Learning From Data'
 file: /courses/hst-951j-medical-decision-support-spring-2003/96e36fa1484c29f1cb8f2322162bf3b7_lecture6.pdf
+file_size: 406415
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
