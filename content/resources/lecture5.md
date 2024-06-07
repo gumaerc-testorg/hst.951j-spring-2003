@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Bayesian Networks: Representation and Reasoning'
 file: /courses/hst-951j-medical-decision-support-spring-2003/5156626d6accc2b3cd04f15de95f0a38_lecture5.pdf
+file_size: 345909
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
