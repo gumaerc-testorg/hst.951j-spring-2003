@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review of Some Concepts in Predictive Modeling
-file: /courses/hst-951j-medical-decision-support-spring-2003/41a73b63c0acaff6a8341b6d3a5072e0_lecture17.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/41a73b63c0acaff6a8341b6d3a5072e0_lecture17.pdf
 file_size: 606288
 file_type: application/pdf
 learning_resource_types:
