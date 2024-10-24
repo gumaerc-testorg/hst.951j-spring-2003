@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Classification Trees
-file: /courses/hst-951j-medical-decision-support-spring-2003/cc4cc8af21c855aa7a9a8451b1a9514d_lecture10.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/cc4cc8af21c855aa7a9a8451b1a9514d_lecture10.pdf
 file_size: 214410
 file_type: application/pdf
 learning_resource_types:
