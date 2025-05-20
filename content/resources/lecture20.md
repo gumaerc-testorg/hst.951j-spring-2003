@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Unsupervised Learning
-file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/697f5aaa3ab60d658fe480c9ff7c2c3b_lecture20.pdf
+file: /courses/hst-951j-medical-decision-support-spring-2003/697f5aaa3ab60d658fe480c9ff7c2c3b_lecture20.pdf
 file_size: 497138
 file_type: application/pdf
 learning_resource_types:

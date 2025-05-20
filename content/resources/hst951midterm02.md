@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm HST951 - 2002
-file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/7f6c7b8c0314f29d9ac06f58cfe1c107_hst951Midterm02.pdf
+file: /courses/hst-951j-medical-decision-support-spring-2003/7f6c7b8c0314f29d9ac06f58cfe1c107_hst951Midterm02.pdf
 file_size: 131183
 file_type: application/pdf
 learning_resource_types:
