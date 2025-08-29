@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Fuzzy and Rough Sets: Part II'
-file: /courses/hst-951j-medical-decision-support-spring-2003/cfe2e9d064c7f3bb17e3b195de9f1e44_lecture4.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/cfe2e9d064c7f3bb17e3b195de9f1e44_lecture4.pdf
 file_size: 195676
 file_type: application/pdf
 learning_resource_types:

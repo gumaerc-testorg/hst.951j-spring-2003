@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Databases in Clinical Research
-file: /courses/hst-951j-medical-decision-support-spring-2003/6b28db0c6c535d1c0f3aa43e5c44f0eb_lecture19.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/6b28db0c6c535d1c0f3aa43e5c44f0eb_lecture19.pdf
 file_size: 563785
 file_type: application/pdf
 learning_resource_types:

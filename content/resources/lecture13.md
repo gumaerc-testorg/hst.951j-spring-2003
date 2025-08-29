@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Evaluation of Predictive Models: Assessing calibration and discrimination.
   Examples.'
-file: /courses/hst-951j-medical-decision-support-spring-2003/793d65aa3598457f9b4df45158c4ade3_lecture13.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/793d65aa3598457f9b4df45158c4ade3_lecture13.pdf
 file_size: 380137
 file_type: application/pdf
 learning_resource_types:
