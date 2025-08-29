@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Simple Probabilistic Reasoning
-file: /courses/hst-951j-medical-decision-support-spring-2003/50ae225657d5179de807b5039fb54eb6_lecture2.pdf
+file: /ol-ocw-studio-app/courses/hst-951j-medical-decision-support-spring-2003/50ae225657d5179de807b5039fb54eb6_lecture2.pdf
 file_size: 301492
 file_type: application/pdf
 learning_resource_types:
